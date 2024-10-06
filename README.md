@@ -4,6 +4,7 @@ This project explores the transition from using Pandas to Polars for data analys
 
 ## Table of Contents
 
+- [Install](#install)
 - [Introduction](#introduction)
 - [Why Polars?](#why-polars)
 - [Use Case](#use-case)
@@ -11,6 +12,14 @@ This project explores the transition from using Pandas to Polars for data analys
 - [Key Observations](#key-observations)
 - [Conclusion](#conclusion)
 - [References](#references)
+
+## Install
+Install the required dependencies:
+
+```bash
+pip install -r requirements.txt
+jupyter lab # run
+```
 
 ## Introduction
 
